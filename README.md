@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
+
 # 臉部辨識使用深度學習範例專案
 
 <p>此為使用Python3程式語言撰寫臉部辨識範例專案，使用Keras操作Tensorflow，並使用CNN 神經網絡模型建置之深度學習應用。</p>
